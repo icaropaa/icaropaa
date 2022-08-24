@@ -8,4 +8,4 @@ Hi! I'm Icaro, welcome to my GitHub :wave:
 
 
 
-In my public repositories you will find a description of some projects I have worked on. Due to intelectual property rights of Georgia Tech and of my current and past employers, I cannot share code in those repositories.
+In my public repositories you will find a description of some projects I have worked on. Due to intelectual property rights of Georgia Tech and of my current and past employers, I cannot share code in public repositories.

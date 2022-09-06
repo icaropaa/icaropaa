@@ -2,7 +2,7 @@ Hi! I'm Icaro, welcome to my GitHub :wave:
 ---------------------------------
 ### About me
 
-:briefcase: I'm a Software Engineer and Government Auditor at Brazil's Supreme Audit Institute (TCU). At TCU, I combine technical and auditing skills to improve government spending, such as developing internal systems to support work or analyzing data. Some stacks used are Python, SQL, Oracle Apex, and Power FX.
+:briefcase: I'm a Software Engineer and Government Auditor at Brazil's Supreme Audit Institute (TCU). At TCU, I combine technical and auditing skills to improve government spending, such as developing internal systems to support work or analyzing data. Some stacks I use are Python, SQL, Oracle Apex, and Power FX.
 
 :mortar_board: I'm also pursuing a master’s degree in Computer Science at Georgia Tech.
 
